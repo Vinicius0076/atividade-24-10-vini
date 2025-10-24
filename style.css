@@ -1,0 +1,25 @@
+div {
+  height:200px ;
+  width:200px ;
+}
+
+.caixa10 {
+  padding: 20px;
+  border: 10px solid black;
+  background-color: cadetblue;
+}
+
+.caixa20 {
+   background-color: gold;
+   border-top: 20px solid black;
+   border-bottom: 20px solid black;
+   border-left: 10px solid black;
+   border-right: 10px solid black;
+   margin-left: 260px;
+}
+
+.caixa30 {
+    background-color: indianred;
+    border: 10px solid black;
+    margin-left: 40px;
+}
